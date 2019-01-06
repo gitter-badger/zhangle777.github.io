@@ -11,7 +11,7 @@ const ap = new APlayer({
 	  {
 		name: 'Fall In Love',
 		artist: 'RamZi',
-		url: ' http://dl.stream.qqmusic.qq.com/M800002XGNT83xVF2b.mp3?vkey=877545527522581E20D426C62FC5155C6182BD43231DC6490499B66BC22692CD48EAB09FBC4AD8B1630C0B2A4AB983D5D2B8A90643698E9E&guid=5150825362&fromtag=1',
+		url: 'http://dl.stream.qqmusic.qq.com/M800002XGNT83xVF2b.mp3?vkey=FFB5F0310A9371E6C1E71AC57B21539B047EB8B359683364EBF67BB397560B6BAEC14156F12DFFF3D6CC03A0AB0D44CBA7C1C50268CF4932&guid=5150825362&fromtag=1',
 		cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000003EUBHE15TqRW.jpg?max_age=2592000',
 		theme: '#46718b'                       <!-- 选中歌曲的主题-->
 	  },
